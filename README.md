@@ -125,12 +125,12 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
 
 ---
 
-## DATA SOURCES
-[https://restcountries.com/](https://restcountries.com/)
+## DEMO
 
 ## GITHUB REPOSITORY
 [https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES](https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES)
 
-## DEMO
+## DATA SOURCES
+[https://restcountries.com/](https://restcountries.com/)
 
 
