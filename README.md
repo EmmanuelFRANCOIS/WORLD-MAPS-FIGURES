@@ -2,11 +2,7 @@
 
 **Caution**: This project is a **self-training project**. As a matter of fact, I do not provide any guarantee in terms of provided data, nor any kind of results you as a user could expect from it.
 
-It is based on a [video tutorial from FromScratch (French language)](https://www.youtube.com/watch?v=f0X1Tl8aHtA).
-
-This short (2h) 2022 tutorial is a good starting point for discovering **REACT**.
-
-However, once I finished this tutorial, I decided to go far beyond, to discover **advanced REACT features** and **D3.js**.
+I made this little project to discover **advanced REACT features** and **D3.js**.
 
 This is how the **"World Maps & Figures" (WMF)** application took shape in July, 2022, somewhere on our wonderful planet...
 
