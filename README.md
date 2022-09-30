@@ -14,7 +14,7 @@ This is how the **"World Maps & Figures" (WMF)** application took shape in July,
 
 ---
 
-## THE WCMF PROJECT
+## THE WMF PROJECT
 
 <p>The project consists in building an <strong>interactive interface to browse World and Countries maps.</strong>.</p>
 <p>You will be able to play with more than a hundred of different <strong>map projections</strong>, some of them are <strong>very rare</strong> to observe...</p>
