@@ -10,6 +10,8 @@ However, once I finished this tutorial, I decided to go far beyond, to discover 
 
 This is how the **"World Countries Maps & Figures" (WCMF)** application took shape in July, 2022, somewhere on our wonderful planet...
 
+![World-Maps-Figures](World-Maps-Figures.png?raw=true "World-Maps-Figures")
+
 ---
 
 ## THE WCMF PROJECT
