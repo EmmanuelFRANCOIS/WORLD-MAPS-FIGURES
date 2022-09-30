@@ -30,86 +30,88 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
 
 ## MAIN TECHNOLOGIES IMPLEMENTED
 
-<div style="margin: 50px 0 50px 0;">
-  <div style="display: inline-block; margin: 0 30px 0 30px; text-align: center;">
-    <img src="./src/assets/logos/React.svg" alt="react" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">ReactJS 18.2</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/React-Bootstrap.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">React-Bootstrap 2.4</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/React-Query.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">React-Query 3.39</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/React-Table.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">React-Table 8.2</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/React-i18next.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">React-i18next 11.1</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/React-Color.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">React-Color 2.19.3</div>
-  </div>
-</div>
-<div style="margin: 0 0 50px 0;">
-  <div style="display: inline-block; margin: 0 30px 0 30px; text-align: center;">
-    <img src="./src/assets/logos/NodeJS.svg" alt="nodejs" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">NodeJS 18.1</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/Axios.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">Axios 0.27</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/i18next.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">i18next 21.8</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/D3js.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">D3.js 7.6</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/GoogleMaps.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">Google Maps</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/OpenStreetMap.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">OpenStreetMap</div>
-  </div>
-</div>
-<div style="margin: 0 0 50px 0;">
-  <div style="display: inline-block; margin: 0 30px 0 30px; text-align: center;">
-    <img src="./src/assets/logos/Bootstrap.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">Bootstrap 5.1.3</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/FontAwesome.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">FontAwesome 6.1</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/Sass.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">Sass 1.53</div>
-  </div>
-</div>
-<div style="margin: 0 0 50px 0;">
-  <div style="display: inline-block; margin: 0 30px 0 30px; text-align: center;">
-    <img src="./src/assets/logos/HTML5.svg" alt="html5" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">HTML 5</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/CSS3.svg" alt="css3" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">CSS 3</div>
-  </div>
-  <div style="display: inline-block; margin: 0 30px 0 0; text-align: center;">
-    <img src="./src/assets/logos/Javascript.svg" alt="javascript" height="48" />
-    <div style="font-size: 1.2rem; font-weight: bold;">Javascript ES6</div>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tbody>
+    <tr style="border: none; text-align: center;">
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <picture><img src="./src/assets/logos/React.svg" alt="react" height="48" /></picture>
+        <div style="font-size: 1.2rem; font-weight: bold;">ReactJS<br />18.2</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/React-Bootstrap.svg" alt="react-bootstrap" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">React-Bootstrap<br />2.4</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/React-Query.svg" alt="react-query" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">React-Query<br />3.39</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/React-Table.svg" alt="react-table" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">React-Table<br />8.2</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/React-i18next.svg" alt="react-i18next" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">React-i18next<br />11.1</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/React-Color.svg" alt="react-color" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">React-Input-Color<br />4.0.1</div>
+      </td>
+    </tr>
+    <tr style="margin: 0 30px 0 30px; text-align: center;">
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/NodeJS.svg" alt="nodejs" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">NodeJS<br />18.1</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/Axios.svg" alt="axios" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">Axios<br />0.27</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/i18next.svg" alt="i18next" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">i18next<br />21.8</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/D3js.svg" alt="d3-js" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">D3.js<br />7.6</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/GoogleMaps.svg" alt="google-maps" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">Google Maps<br /></div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/OpenStreetMap.svg" alt="open-street-map" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">OpenStreetMap<br /></div>
+      </td>
+    </tr>
+    <tr style="margin: 0 30px 0 30px; text-align: center;">
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/Bootstrap.svg" alt="javascript" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">Bootstrap<br />5.2</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/FontAwesome.svg" alt="javascript" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">FontAwesome<br />6.1</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/Sass.svg" alt="javascript" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">Sass<br />1.53</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/HTML5.svg" alt="html5" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">HTML<br />5</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/CSS3.svg" alt="css3" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">CSS<br />3</div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
+        <img src="./src/assets/logos/Javascript.svg" alt="javascript" height="48" />
+        <div style="font-size: 1.2rem; font-weight: bold;">Javascript<br />ES6</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
