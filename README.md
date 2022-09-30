@@ -1,4 +1,4 @@
-# WOLRD MAPS & FIGURES (WMF)
+# WORLD MAPS & FIGURES (WMF)
 
 **Caution**: This project is a **self-training project**. As a matter of fact, I do not provide any guarantee in terms of provided data, nor any kind of results you as a user could expect from it.
 
