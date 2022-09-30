@@ -8,7 +8,7 @@ This short (2h) 2022 tutorial is a good starting point for discovering **REACT**
 
 However, once I finished this tutorial, I decided to go far beyond, to discover **advanced REACT features** and **D3.js**.
 
-This is how the **"World Maps & Figures" (WCMF)** application took shape in July, 2022, somewhere on our wonderful planet...
+This is how the **"World Maps & Figures" (WMF)** application took shape in July, 2022, somewhere on our wonderful planet...
 
 ![World-Maps-Figures](World-Maps-Figures.png?raw=true "World-Maps-Figures")
 
