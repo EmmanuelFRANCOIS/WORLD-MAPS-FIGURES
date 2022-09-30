@@ -28,6 +28,16 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
 
 ---
 
+## DEMO
+
+## GITHUB REPOSITORY
+[https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES](https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES)
+
+## DATA SOURCES
+[https://restcountries.com/](https://restcountries.com/)
+
+---
+
 ## MAIN TECHNOLOGIES IMPLEMENTED
 
 <table style="width: 100%; border-collapse: collapse; border: none !important;">
@@ -104,27 +114,5 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
     </tr>
   </tbody>
 </table>
-
----
-
-## IMPLEMENTED REACT CONCEPTS, BEST PRACTICES & FEATURES
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> React-Router-Dom : App routing + Error 404 page</p>
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> Hooks : useEffect, useState, useRef, useLocation</p>
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> Manage states with REACT Context</p>
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> Pass parameters from Parent to Child Components</p>
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> Pass parameters from Child to Parent Components</p>
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> Pass parameters from one Page to another Page (useLocation)</p>
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> Parametering CSS styles in Components' render JSX code</p>
-<p><span style="font-size: 1.2rem !important; font-weight: bold; color: lightgreen;">✔</span> Axios get call inside a Context provider</p>
-
----
-
-## DEMO
-
-## GITHUB REPOSITORY
-[https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES](https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES)
-
-## DATA SOURCES
-[https://restcountries.com/](https://restcountries.com/)
 
 
