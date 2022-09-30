@@ -1,0 +1,19 @@
+.logo {
+  width: auto;
+  background: #555;
+  border-radius: 4px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 30px 10px 10px;
+  img {
+    height: 48px;
+  }
+  .company {
+    margin-left: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+  }
+}

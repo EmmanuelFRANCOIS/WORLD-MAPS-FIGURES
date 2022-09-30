@@ -1,0 +1,25 @@
+@import "./theme.scss";
+@import '~bootstrap/scss/bootstrap.scss';
+
+@import "./common.scss";
+
+@import "../pages/pgAbout/pgAbout.scss";
+@import "../pages/pgCountries/pgCountries.scss";
+@import "../pages/pgCountry/pgCountry.scss";
+@import "../pages/pgError404/pgError404.scss";
+@import "../pages/pgGlobe/pgGlobe.scss";
+
+@import "../components/appNavbar/appNavbar.scss";
+@import "../components/logo/logo.scss";
+@import "../components/loader/loader.scss";
+@import "../components/header/header.scss";
+@import "../components/footer/footer.scss";
+@import "../components/countries/countries.scss";
+@import "../components/countriesFilters/countriesFilters.scss";
+@import "../components/countriesFlags/countriesFlags.scss";
+@import "../components/countriesFlag/countriesFlag.scss";
+@import "../components/countriesItems/countriesItems.scss";
+@import "../components/countriesItem/countriesItem.scss";
+@import "../components/countriesTable/countriesTable.scss";
+@import "../components/country/country.scss";
+@import "../components/globe/globe.scss";

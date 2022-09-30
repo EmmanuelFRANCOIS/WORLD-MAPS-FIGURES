@@ -1,0 +1,19 @@
+ul.features {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  li {
+    width : 20%;
+    min-width: 300px;
+    margin-right: 50px;
+    margin-bottom: 7px;
+    line-height: 1.15;
+  }
+  li:before {
+    content: "✔";
+    margin-left: -20px; 
+    margin-right: 10px;
+    color: rgb(0, 197, 0);
+    font-size: 1.5rem;
+  }
+}

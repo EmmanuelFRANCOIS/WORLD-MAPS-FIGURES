@@ -1,0 +1,23 @@
+/*
+ * General Customization
+ */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  background: #144142;
+}
+
+.rtl { direction: rtl; }
+
+.fullheight {
+  min-height: 100vh;
+  max-height: 100vh;
+  box-sizing: border-box;
+}
+
+.dropdown-menu { z-index: 1100; }
+
+.pageView {
+  padding: 0;
+}
+
