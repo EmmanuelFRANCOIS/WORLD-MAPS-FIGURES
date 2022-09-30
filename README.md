@@ -126,45 +126,11 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
 ---
 
 ## DATA SOURCES
-
-#### WIKIPEDIA
-
-- **Countries** :<br />
-ISO 3166 - Codes for the representation of names of countries and their subdivisions : [click here](https://en.wikipedia.org/wiki/ISO_3166)<br />
-List of ISO 3166 Country codes : [click here](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)<br />
-List of FIPS country codes : [click here](https://en.wikipedia.org/wiki/List_of_FIPS_country_codes)<br />
-List of Country Groupings : [click here](https://en.wikipedia.org/wiki/List_of_country_groupings)<br />
-
-- **Languages** :<br />
-ISO 639 - Representation of names for languages and language groups : [click here](https://en.wikipedia.org/wiki/ISO_639)<br />
-List of ISO 639-1 Language codes : [click here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)<br />
-List of Official Languages by Country and Territory : [click here](https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory)
-
-- **Currencies** :<br />
-ISO 4217 - Representation of Currencies : [click here](https://en.wikipedia.org/wiki/ISO_4217)<br />
-List of ISO 4217 Currency Codes : [click here](https://en.wikipedia.org/wiki/ISO_4217)<br />
-List of ISO 4217 Currency Symbols or Currency Signs : [click here](https://en.wikipedia.org/wiki/Currency_symbol)<br />
-List of Circulating Currencies : [click here](https://en.wikipedia.org/wiki/List_of_circulating_currencies)<br />
-
-- **Other Data** :<br />
-List of Country Calling Codes : [click here](https://en.wikipedia.org/wiki/List_of_country_calling_codes)<br />
-List of Country code top-level domain (tld) : [click here](https://en.wikipedia.org/wiki/Country_code_top-level_domain#Lists)<br />
-List of Country International Rankings : [click here](https://en.wikipedia.org/wiki/List_of_international_rankings)<br />
-List of Most Common Surnames by Country : [click here](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames)<br />
-
-#### CLDR (Common Locale Data Repository)<br />
-CLDR (Common Locale Data Repository): [click here](https://cldr.unicode.org/index)<br />
-Latest CLDR JSON Dataset: [click here](https://github.com/unicode-org/cldr-json)
-
-#### GENC (Geopolitical Entities, Names, and Codes)<br />
-Geopolitical Entities, Names, and Codes (GENC) Terminology Files : [click here](https://evs.nci.nih.gov/ftp1/GENC/About.html)
-
----
+[https://restcountries.com/](https://restcountries.com/)
 
 ## GITHUB REPOSITORY
-[click here](https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES)
+[https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES](https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES)
 
 ## DEMO
 
-If you want to test this app on your own computer, you will have to :
 
