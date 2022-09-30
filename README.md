@@ -30,7 +30,7 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
 
 ## MAIN TECHNOLOGIES IMPLEMENTED
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border-collapse: collapse; border: none !important;">
   <tbody>
     <tr style="border: none; text-align: center;">
       <td align="center" style="padding: 30px 20px; border: none;">
