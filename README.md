@@ -10,7 +10,7 @@ However, once I finished this tutorial, I decided to go far beyond, to discover 
 
 This is how the **"World Maps & Figures" (WMF)** application took shape in July, 2022, somewhere on our wonderful planet...
 
-![World-Maps-Figures](World-Maps-Figures.png?raw=true "World-Maps-Figures")
+![World-Maps-Figures](World-Maps-Figures.png "World-Maps-Figures")
 
 ---
 
