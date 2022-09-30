@@ -54,15 +54,9 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
         <div style="font-size: 1.2rem; font-weight: bold;">React-i18next<br />11.1</div>
       </td>
       <td align="center" style="padding: 30px 20px; border: none;">
-        <img src="./src/assets/logos/React-Color.svg" alt="react-color" height="48" />
-        <div style="font-size: 1.2rem; font-weight: bold;">React-Input-Color<br />4.0.1</div>
       </td>
     </tr>
     <tr style="margin: 0 30px 0 30px; text-align: center;">
-      <td align="center" style="padding: 30px 20px; border: none;">
-        <img src="./src/assets/logos/NodeJS.svg" alt="nodejs" height="48" />
-        <div style="font-size: 1.2rem; font-weight: bold;">NodeJS<br />18.1</div>
-      </td>
       <td align="center" style="padding: 30px 20px; border: none;">
         <img src="./src/assets/logos/Axios.svg" alt="axios" height="48" />
         <div style="font-size: 1.2rem; font-weight: bold;">Axios<br />0.27</div>
@@ -76,12 +70,10 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
         <div style="font-size: 1.2rem; font-weight: bold;">D3.js<br />7.6</div>
       </td>
       <td align="center" style="padding: 30px 20px; border: none;">
-        <img src="./src/assets/logos/GoogleMaps.svg" alt="google-maps" height="48" />
-        <div style="font-size: 1.2rem; font-weight: bold;">Google Maps<br /></div>
       </td>
       <td align="center" style="padding: 30px 20px; border: none;">
-        <img src="./src/assets/logos/OpenStreetMap.svg" alt="open-street-map" height="48" />
-        <div style="font-size: 1.2rem; font-weight: bold;">OpenStreetMap<br /></div>
+      </td>
+      <td align="center" style="padding: 30px 20px; border: none;">
       </td>
     </tr>
     <tr style="margin: 0 30px 0 30px; text-align: center;">
