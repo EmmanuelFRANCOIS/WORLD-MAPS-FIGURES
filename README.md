@@ -17,11 +17,11 @@ This is how the **"World Maps & Figures" (WCMF)** application took shape in July
 ## THE WCMF PROJECT
 
 <p>The project consists in building an <strong>interactive interface to browse World and Countries maps.</strong>.</p>
-<p>You will be able to play with about a hundred of different <strong>map projections</strong>, some of them are <strong>very rare</strong> to observe...</p>
+<p>You will be able to play with more than a hundred of different <strong>map projections</strong>, some of them are <strong>very rare</strong> to observe...</p>
 <p>The purpose of this application is not to provide absolutely perfect data about Countries, but to be a <strong>showcase</strong> of what I'm able to deliver as a developer.</p>
 <p>This includes :</p>
-- <strong>quality, performance, efficiency, usability, robustness</strong> of concepts and codes...
-- nice <strong>UI (User Interface)</strong> to make an app easy to learn and master...
+<p>- <strong>quality, performance, efficiency, usability, robustness</strong> of concepts and codes...</p>
+<p>- nice <strong>UI (User Interface)</strong> to make an app easy to learn and master...</p>
 
 <p>I hope you will have a pleasant experience as trying my <strong>WMF application</strong>!</p>
 <p>Please, don't hesitate to send me any feedback about it: <strong>feedback is fuel of improvement!</strong>...</p>
