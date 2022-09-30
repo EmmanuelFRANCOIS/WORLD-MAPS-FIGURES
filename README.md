@@ -1,4 +1,4 @@
-# WOLRD COUNTRIES MAPS & FIGURES (WCMF)
+# WOLRD MAPS & FIGURES (WMF)
 
 **Caution**: This project is a **self-training project**. As a matter of fact, I do not provide any guarantee in terms of provided data, nor any kind of results you as a user could expect from it.
 
@@ -6,9 +6,9 @@ It is based on a [video tutorial from FromScratch (French language)](https://www
 
 This short (2h) 2022 tutorial is a good starting point for discovering **REACT**.
 
-However, once I finished this tutorial, I decided to go far beyond, to discover many more **advanced REACT features**.
+However, once I finished this tutorial, I decided to go far beyond, to discover **advanced REACT features** and **D3.js**.
 
-This is how the **"World Countries Maps & Figures" (WCMF)** application took shape in July, 2022, somewhere on our wonderful planet...
+This is how the **"World Maps & Figures" (WCMF)** application took shape in July, 2022, somewhere on our wonderful planet...
 
 ![World-Maps-Figures](World-Maps-Figures.png?raw=true "World-Maps-Figures")
 
@@ -16,14 +16,12 @@ This is how the **"World Countries Maps & Figures" (WCMF)** application took sha
 
 ## THE WCMF PROJECT
 
-<p>The project consists in building an <strong>interactive interface to browse World and Countries' figures & data</strong>.</p>
-<p>The great majority of Countries' data come from  <strong>WIKIPEDIA, CLDR and GENC</strong> websites.</p>
-<p>In order to build the coherent and complete dataset before to create our interface, I had to collect, rearrange and compile data from multiple sources.</p>
-<p>This is why I can not guarantee 100% that there is no error in the data provided by the <strong>WCMF application</strong>...</p>
-<p>Anyway, the purpose of this application is not to provide absolutely perfect data about Countries, but to be a <strong>showcase</strong> of what I'm able to deliver as a developer.</p>
-<p>And this includes :</p>
+<p>The project consists in building an <strong>interactive interface to browse World and Countries maps.</strong>.</p>
+<p>You will be able to play with about a hundred of different <strong>map projections</strong>, some of them are <strong>very rare</strong> to observe...</p>
+<p>The purpose of this application is not to provide absolutely perfect data about Countries, but to be a <strong>showcase</strong> of what I'm able to deliver as a developer.</p>
+<p>This includes :</p>
 - <strong>quality, performance, efficiency, usability, robustness</strong> of concepts and codes...
-- <strong>large, complex datasets</strong> assembly from multiple sources, compilation and management
+- nice <strong>UI (User Interface)</strong> to make an app easy to learn and master...
 
 <p>I hope you will have a pleasant experience as trying my <strong>WMF application</strong>!</p>
 <p>Please, don't hesitate to send me any feedback about it: <strong>feedback is fuel of improvement!</strong>...</p>
