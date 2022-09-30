@@ -137,8 +137,9 @@ const Globe = forwardRef( (props, ref) => {
         d3.min(worldtemperature, e => +e.temperature)
       ]).range(d3.range(60));
 
-  const legend = svg.append('g')
-      .attr('transform', 'translate(0, 10)')
+  const legend = svg
+      .append('g')
+      .attr('transform', 'translate(10, 10)')
       .attr('id', 'legend');
       
   legend.selectAll('.colorbar') // LIGNE 11
@@ -244,7 +245,7 @@ const Globe = forwardRef( (props, ref) => {
   }, [svg, zooming, dragging]);
 
   return (
-    <div className="container-fluid p-0 m-0 text-center bg-white">
+    <div className="container-fluid p-0 m-0 text-center">
       <svg className="mapContainer" ref={svgRef}
            width={dimensions.width} height={dimensions.height} />
     </div>

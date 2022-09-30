@@ -161,6 +161,7 @@ const PgAbout = () => {
         </div>
 
         <h2 className="mt-5 fw-bold text-uppercase text-primary">Github Repository</h2>
+        <div><a target="_blank" href="https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES">https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES</a></div>
 
         <h2 className="mt-5 fw-bold text-uppercase text-primary">Live Demo</h2>
 
