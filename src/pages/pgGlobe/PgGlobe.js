@@ -51,7 +51,7 @@ const PgGlobe = () => {
   return (
     <div className="pgGlobe fullheight">
       <Header className="sticky-top pageHeader" />
-      <div className="d-flex justify-content-between align-items-center px-4 py-2 bg-secondary text-white shadow-lg sticky-top mapBar">
+      <div className="d-flex justify-content-between align-items-center px-4 py-2 bg-dark text-white shadow-lg sticky-top mapBar">
         <h1 className="pe-2 py-2 m-0 lh-1 fs-2 fw-bold text-uppercase"><small>{t("Map")}</small></h1>
         <div className="d-flex align-items-stretch">
           {/* Projection selector */}

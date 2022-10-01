@@ -20,7 +20,7 @@ function AppNavbar() {
 
   return (
     <>
-      <Navbar collapseOnSelect expand="md" bg="primary" variant="dark" className="py-1 pageHeader">
+      <Navbar collapseOnSelect expand="md" variant="dark" className="py-1 pageHeader">
         <Container fluid className="px-4">
           <Logo />
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />

@@ -160,8 +160,8 @@ const Globe = forwardRef( (props, ref) => {
       .range([50 + 60 * 5, 50]);
       
   svg.append("g")
-      .attr('transform', 'translate(25, 10)')
-      .call(d3.axisLeft(legendScale).ticks(10));
+      .attr('transform', 'translate(35, 0)')
+      .call(d3.axisLeft(legendScale).ticks(11));
   
   let clsTemp = "";
   worldtemperature.forEach( function(e, i) {
