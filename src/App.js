@@ -54,12 +54,10 @@ const App = () => {
     return <div>Error! {error.message}</div>
   }
 
-  console.log(data);
-
   return (
     (
       <div>
-        <BrowserRouter>
+        <BrowserRouter basename={'/portfolio/world-maps-explorer'}>
           <SettingsContext.Provider value={config.settings}>
             <DataContext.Provider value={data}>
               <mapContext.Provider value={config.map}>

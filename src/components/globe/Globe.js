@@ -234,6 +234,7 @@ const Globe = forwardRef( (props, ref) => {
   
   useEffect(() => {
     //Auto resizer
+    handleResize();
     window.addEventListener( 'resize', handleResize );
   }, []);
 
