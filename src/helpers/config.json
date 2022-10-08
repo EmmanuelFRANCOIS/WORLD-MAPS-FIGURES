@@ -1,0 +1,68 @@
+{
+  "settings" : {
+    "language"                : "en"
+  },
+  "countries" : {
+    "defaultTemplate"         : "list"
+  },
+  "countryItems" : {
+    "zoomLevelDefault"        : 0.3,
+    "zoomLevelStep"           : 0.05,
+    "gridColsMax"             : 5,
+    "gridColsMin"             : 1,
+    "flagsHeightMax"          : 64,
+    "flagsHeightMin"          : 32,
+    "labelFontSizeMax"        : 1.5,
+    "labelFontSizeMin"        : 1.3
+  },
+  "countryFlags" : {
+    "zoomLevelDefault"        : 0.3,
+    "zoomLevelStep"           : 0.05,
+    "flagsHeightMax"          : 192,
+    "flagsHeightMin"          : 32,
+    "flagsLabelFontSizeMax"   : 2.5,
+    "flagsLabelFontSizeMin"   : 0.5
+  },
+  "map": {
+    "projection"                : "equalEarth",
+    "projIndex"                 : 11,
+    "dimensions"                : { "width": 1280, "height": 720 },
+    "reservedHeight"            : 0,
+    "marginTop"                 : 20,
+    "marginBottom"              : 20,
+    "marginLeft"                : 20,
+    "marginRight"               : 20,
+    "legendPosition"            : "right",
+    "legendMargin"              : 30,
+    "zoomLevelMin"              : 0.01,
+    "zoomLevelMax"              : 20,
+    "zoomLevel"                 : 1,
+    "zoomLevelStep"             : 0.1,
+    "zoomMode"                  : "global",
+    "rotationX"                 : true,
+    "rotationY"                 : true,
+    "rotationZ"                 : true,
+    "background"                : "#000000",
+    "backColor"                 : "#999999",
+    "graticule"                 : true,
+    "graticuleColor"            : "rgba(0, 0, 0, 0.5)",
+    "oceanTexture"              : "flat",
+    "oceanColor"                : "#b5dcff",
+    "greenwich"                 : true,
+    "greenwichColor"            : "darkmagenta",
+    "equator"                   : true,
+    "equatorColor"              : "darkmagenta",
+    "tropicCancer"              : true,
+    "tropicCancerColor"         : "magenta",
+    "tropicCapricorn"           : true,
+    "tropicCapricornColor"      : "magenta",
+    "arcticCircle"              : true,
+    "arcticCircleColor"         : "magenta",
+    "arcticArea"                : true,
+    "arcticAreaColor"           : "rgba(0,0,0,0.1)",
+    "antarcticCircle"           : true,
+    "antarcticCircleColor"      : "magenta",
+    "antarcticArea"             : true,
+    "antarcticAreaColor"        : "rgba(0,0,0,0.1)"
+  }
+}
