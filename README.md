@@ -25,6 +25,7 @@ This is how the **"World Maps & Figures" (WMF)** application took shape in July,
 ---
 
 ## DEMO
+[https://emmanuelfrançois.fr/portfolio/world-maps-explorer/](https://emmanuelfrançois.fr/portfolio/world-maps-explorer/)
 
 ## GITHUB REPOSITORY
 [https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES](https://github.com/EmmanuelFRANCOIS/WORLD-MAPS-FIGURES)
