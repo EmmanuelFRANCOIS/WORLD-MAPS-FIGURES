@@ -57,7 +57,7 @@ const App = () => {
   return (
     (
       <div>
-        <BrowserRouter basename={'/portfolio/world-maps-explorer'}>
+        <BrowserRouter basename={'/portfolio/world-maps-figures'}>
           <SettingsContext.Provider value={config.settings}>
             <DataContext.Provider value={data}>
               <mapContext.Provider value={config.map}>

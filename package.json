@@ -1,6 +1,6 @@
 {
-  "name": "world-countries-maps-figures",
-  "homepage": "https://emmanuelfrançois.fr/portfolio/world-maps-explorer",
+  "name": "world-maps-figures",
+  "homepage": "https://emmanuelfrancois.fr/portfolio/world-maps-figures",
   "version": "1.0.0",
   "private": true,
   "dependencies": {

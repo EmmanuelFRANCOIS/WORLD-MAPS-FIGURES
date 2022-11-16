@@ -4,5 +4,5 @@ RewriteBase /myreactapp/
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-l
-RewriteRule . /portfolio/world-maps-explorer/index.html [L]
+RewriteRule . /portfolio/world-maps-figures/index.html [L]
 </IfModule>
